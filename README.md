@@ -4,11 +4,12 @@ Este projeto foi desenvolvido no âmbito da unidade curricular de Desenvolviment
 Trata-se de uma aplicação para a gestão de uma oficina, com funcionalidades de controlo de stock, gestão de serviços, encomendas e clientes, desenvolvida em .NET C# com frontend e backend integrados.
 
 Principais contribuições:
+-
 
-Implementação de alguma da lógica dos controllers e criação da API.
+. Implementação de alguma da lógica dos controllers e criação da API.
 
-Desenvolvimento de algumas views e respetivos estilos.
+. Desenvolvimento de algumas views e respetivos estilos.
 
-Implementação do sistema de autenticação e autorização, incluindo gestão de roles.
+. Implementação do sistema de autenticação e autorização, incluindo gestão de roles.
 
-Implementação do Signal-R.
+. Implementação do Signal-R.
